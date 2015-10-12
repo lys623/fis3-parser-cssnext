@@ -1,0 +1,30 @@
+{
+  "name": "fis3-parser-cssnext",
+  "version": "1.0.0",
+  "description": "cssnext parser for fis3",
+  "main": "index.js",
+  "dependencies": {
+    "cssnext": "^1.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cssnext": "^1.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lys623/fis3-parser-cssnext.git"
+  },
+  "keywords": [
+    "fis3",
+    "cssnext"
+  ],
+  "author": "61",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lys623/fis3-parser-cssnext/issues"
+  },
+  "homepage": "https://github.com/lys623/fis3-parser-cssnext#readme"
+}
